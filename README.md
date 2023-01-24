@@ -14,3 +14,6 @@ Kullanım:
 
 "hepsi.txt" içerisinde internetten bulduğum, her biri bir satırda yaklaşık 75 bin türkçe kelime var. Bu satırlardan bazıları tek bir kelime yerine kelime grubu içeriyor. Program kelime grubu içeren satırları görmezden geliyor. 
 Çok küçük bir ihtimalle, internetteki bazı wordle türkçe oyunlarında program o kelime "hepsi.txt" dosyasında olmadığı için kelimeyi bulamayabiliyor. Benim karşılaştığım durumda örneğin ayrık yazılması gereken kelime grubu türkçeye uygunsuz biçimde yazıldığı için veritabanında bulamamıştı.
+
+![image](https://user-images.githubusercontent.com/65857758/214399384-cffcaca0-ed80-4e79-93ba-c1804e31e107.png)
+![image](https://user-images.githubusercontent.com/65857758/214399475-795486e5-a980-487d-af41-d2954e6991d0.png)
